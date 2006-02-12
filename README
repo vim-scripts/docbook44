@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1463
+
+Data file for Vim7 omnicompletion. Unzip and place in 
+~/.vim/autoload/xml directory. Completion will be available after 
+
+:XMLns docbook44
+
+command.
+
